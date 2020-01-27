@@ -1,0 +1,4 @@
+set f=165*2*5
+print (f)
+print {f}
+quit
